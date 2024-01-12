@@ -9,7 +9,6 @@
 
 // Checkpoint 1.1 What is the difference between var, let, and const?
 // Answer: 
-// Your code here
 
 // TODO 1.4 Try out the different arithmetic operators
 // See https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#arithmetic_operators

@@ -16,18 +16,33 @@ let toDisplay = ""
 // Your code here
 console.log("toDisplay", toDisplay);
 
+// Checkpoint 2.1 How do you use switch statements and when would you use them? Try researching the answer
+// Answer: 
+
 // TODO 2.5 Use a for loop to print the numbers 1 to N
 const n = 10
 // Your code here
 
-// TODO 2.6 Use a for of loop to display all the values in the list
-const list = [""]
+const list = ["apple", "banana", "cherry", "date", "elderberry"];
+// TODO 2.6 Use a while loop to display all the values in the list
 // Your code here
 
-// TODO 2.7 Use the for each method of the list to display all its values 
+// Checkpoint 2.3 How would you simulate a do-while loop in JavaScript
+// Answer: 
+
+// TODO 2.7 Use a for of loop to display all the values in the list
 // Your code here
 
-// TODO 2.8 Use the try and catch block to catch division by zero errors in the code below.
+// TODO 2.8 Use a for in loop to display all the values in the list
+// Your code here
+
+// TODO 2.9 Use the for each method of the list to display all its values 
+// Your code here
+
+// Checkpoint 2.2 When should you use for of, for in, or .forEach loops? Try researching the answer
+// Answer: 
+
+// TODO 2.10 Use the try and catch block to catch division by zero errors in the code below.
 // In the finally block, simulate cleaning up resources by displaying "cleaning up resources"
 const numerator = Math.floor((Math.random() * 100) + 1);
 const denominator = Math.floor((Math.random() * 5)); // feel free to mock this value for testing
