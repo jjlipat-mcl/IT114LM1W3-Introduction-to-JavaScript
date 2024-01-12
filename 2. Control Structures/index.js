@@ -1,3 +1,8 @@
+/*
+    Resources:
+    - MDN Docs: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling
+*/
+
 const randomNumber = Math.floor((Math.random() * 100) + 1); // feel free to mock this value for testing
 
 // TODO 2.1 Display "more than fifty" if randomNumber is more than fify

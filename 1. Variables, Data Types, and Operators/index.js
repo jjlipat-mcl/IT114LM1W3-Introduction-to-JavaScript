@@ -1,3 +1,8 @@
+/*
+    Resources:
+    - MDN Docs: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators
+*/
+
 // TODO 1.1 Use the var keyword to define a variable. Log the variable to the console. Now try moving the variable declaration after you log the variable.
 // Your code here
 
