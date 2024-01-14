@@ -16,7 +16,7 @@
 11. Change the present working directory of the terminal to the folder of exercise 1
     1. You are currently in `0. Hello World` but `1. Variables, Data Types, and Operators` is in the parent directory
     2. Move to the parent directory by entering `cd ..` in the terminal
-    3. Move to the directory of exercise 1 by entering `cd "1. Variables, Data Types, and Operator"` in the terminal
+    3. Move to the directory of exercise 1 by entering `cd "1. Variables, Data Types, and Operator"` in the terminal. See the tip in one of the previous steps.
 12. Start doing exercise 1. Once you're done with exercise 1, follow the same process for the other exercises
 
 Happy coding 😄
